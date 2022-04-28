@@ -1,3 +1,9 @@
 venv
 tests/.pytest_cache
 .idea
+.pytest_cache
+__pycache__
+.coverage
+coverage.xml
+.scannerwork
+htmlcov
