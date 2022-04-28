@@ -9,4 +9,5 @@ def my_app(num):
 
 def poor_code():
     # foo is not defined
-    foo() 
+    foo()
+    print("poor code")
