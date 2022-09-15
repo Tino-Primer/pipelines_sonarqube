@@ -7,14 +7,8 @@ def my_app(num):
     else:
         return False
 
-# duplicated code - test and delete
-def my_app(num):
-    if num > 0:
-        return True
-    else:
-        return False
-
-# foo is not defined - test and delete
 def poor_code():
-    foo()
     print("poor code")
+
+def bad_bad_code():
+    print("bad bad code")
