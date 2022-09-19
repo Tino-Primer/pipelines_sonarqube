@@ -8,7 +8,7 @@ def my_app(num):
         return False
 
 def poor_code():
-    print("poor code")
+    return "poor code"
 
 def bad_bad_code():
-    print("bad bad code")
+    return "bad bad code"
